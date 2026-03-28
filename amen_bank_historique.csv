@@ -1,0 +1,5 @@
+Date,Analyste,Age,Sexe,Emploi,Logement,Epargne,Compte_Courant,Montant_Credit,Duree_Mois,Objet,Classification,Score_Risque_pct,Confiance_pct
+2026-03-27 13:58:00,Koussay Hassana,35 ans,female,Sans emploi,free,little,little,3000,24,business,BON CLIENT,49.66,50.34
+2026-03-27 13:58:17,Koussay Hassana,35 ans,male,Non qualifié,free,little,moderate,4445,24,education,BON CLIENT,45.7,54.3
+2026-03-27 13:58:33,Koussay Hassana,35 ans,male,Non qualifié,free,little,moderate,15922,44,education,CLIENT À RISQUE,70.07,29.93
+2026-03-27 19:35:56,Koussay Hassana,21 ans,female,Sans emploi,free,little,little,3000,13,business,CLIENT À RISQUE,52.52,47.48
